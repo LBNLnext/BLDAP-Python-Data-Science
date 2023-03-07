@@ -41,6 +41,8 @@ An alternative option is to run the Jupyter notebooks in the cloud through binde
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LBNLnext/EinR-Coding-Bootcamp/HEAD?urlpath=tree)
 
+*Please note that binder takes a while to load when launching it for the first time.*
+
 ## Acknowledgements
 
 The Berkeley Lab K-12 team is truly grateful to the following who contributed to the development of these notebooks:
