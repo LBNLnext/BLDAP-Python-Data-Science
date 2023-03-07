@@ -37,9 +37,9 @@ Then, use the Anaconda Navigator application to open the notebooks:
 
 ## Alternative to Anaconda
 
-An alternative option is to run the Jupyter notebooks in the cloud through binder. Just keep in mind that work is not saved in binder.
+An alternative option is to run the Jupyter notebooks in the cloud through binder. Please keep in mind that work is *not* saved in binder, so it is recommended to run the notebooks locally on the computer instead.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LBNLnext/EinR-Coding-Bootcamp/HEAD?urlpath=tree)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LBNLnext/BLDAP-Python-Data-Science/HEAD)
 
 *Please note that binder takes a while to load when launching it for the first time.*
 
