@@ -45,26 +45,22 @@ An alternative option is to run the Jupyter notebooks in the cloud through binde
 
 The Berkeley Lab K-12 team is truly grateful to the following who contributed to the development of these notebooks:
 
-**Intro to Python:**
+***Intro to Python:***
 
 UC Berkeley's Data Science Modules Program, Division of Computing, Data Science, and Society
 
-Kseniya Usovich (UC Berkeley), Karla Palos (UC Berkeley), Eric Van Dusen (UC Berkeley), Rachel McCarty (UC Berkeley), Baishakhi Bose (Berkeley Lab), Laurel Hales (Stanford)
+Kseniya Usovich, Karla Palos, Eric Van Dusen, Rachel McCarty (UC Berkeley); Baishakhi Bose, Samanvitha Murthy (Berkeley Lab); Laurel Hales (Stanford)
 
-**Cell Phone Design Challenge:**
+***Cell Phone Design Challenge:***
 
-Alex Ganose (Imperial College London), Ryan Kingsbury (Berkeley Lab), Jianli Cheng (Berkeley Lab)
+Alex Ganose (Imperial College London); Ryan Kingsbury, Jianli Cheng (Berkeley Lab)
 
-**Energy Consumption Data Challenge:**
+***Energy Consumption Data Challenge:***
 
-Anand Krishnan Prakash, Kun Zhang, Lazlo Paul and Dave Blum, Marco Pritoni and Rich Brown (Berkeley Lab)
+Anand Krishnan Prakash, Kun Zhang, Lazlo Paul and Dave Blum, Marco Pritoni and Rich Brown (Berkeley Lab); Marc Marshall, James Zoellick, Peter Alstone (Schatz Energy Research Center, Humboldt State University); Rachel McCarty, Kseniya Usovich (UC Berkeley); Laurel Hales (Stanford)
 
-Marc Marshall, James Zoellick, Peter Alstone (Schatz Energy Research Center, Humboldt State University)
+***Genomics Data Challenge:***
 
-Rachel McCarty (UC Berkeley)
-
-**Genomics Data Challenge:**
-
-Sharon Greenblum (Berkeley Lab), Ciara Acosta (UC Berkeley)
+Sharon Greenblum (Berkeley Lab); Ciara Acosta, Kseniya Usovich (UC Berkeley)
 
 *Repo format inspired from UC Berkeley's [D-Lab](https://github.com/dlab-berkeley)*
