@@ -43,6 +43,14 @@ An alternative option is to run the Jupyter notebooks in the cloud through binde
 
 *Please note that binder takes a while to load when launching it for the first time.*
 
+## Feedback and Suggestions
+
+We welcome any feedback and suggestions for our curriculum resources so we can continuously improve them. Any questions about the curriculum resources can also be asked and a K-12 team member will email back.
+
+Please also use the feedback form to request the answer keys for the Jupyter notebooks. In an effort to keep this curriculum as open source, please do not post the answer keys on any public websites.
+
+[Fill out the feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdIbIhiRG-rME3fNFWbnB3w2tdw20GFTloFg-6poYPWCd5OJg/viewform)
+
 ## Acknowledgements
 
 The Berkeley Lab K-12 team is truly grateful to the following who contributed to the development of these notebooks:
