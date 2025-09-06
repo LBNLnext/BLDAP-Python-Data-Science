@@ -43,6 +43,9 @@ An alternative option is to run the Jupyter notebooks in the cloud through binde
 
 *Please note that binder takes a while to load when launching it for the first time.*
 
+## Pre/Post Coding Assessment Survey Questions 
+We have uploaded the coding questions we use to assess student learning and understanding. All students take the survey on day 1 before any coding lessons. Then at the very end of the program we have students take the same survey to see how much students learned and what concepts need more review. We put the questions in a pdf format but feel free to add these questions to a google form of your own.  
+
 ## Feedback and Suggestions
 
 We welcome any feedback and suggestions for our curriculum resources so we can continuously improve them. Any questions about the curriculum resources can also be asked and a K-12 team member will email back.
