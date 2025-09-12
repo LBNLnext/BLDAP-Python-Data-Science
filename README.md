@@ -10,6 +10,8 @@ The overall goal is for students to learn how to use Python to clean, analyze, a
 
 More details on the curriculum, including more context for each section of the curriculum and possible curriculum sequence and standards covered can be found on our [website.](https://k12education.lbl.gov/programs/educators/data-science-curriculum)
 
+## Repo Contents
+
 This repo contains the following:
 
 - **00 Intro to Python:** Students learn the basics of Python, as well as libraries utilized in data science ([numPy,](https://numpy.org/) [pandas,](https://pandas.pydata.org/) [matplotlib](https://matplotlib.org/)). Notebooks 00, 01, 02, 03, 04, 05, and 07 contain an auto-grader for some exercises called [Otter Grader](https://otter-grader.readthedocs.io/en/latest/). For those that do not want to use the auto-grader, duplicates of these notebooks without Otter Grader is also included.
