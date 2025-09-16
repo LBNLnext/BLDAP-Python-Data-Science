@@ -66,7 +66,7 @@ Otter-Grader was implemented in the notebooks by: Lawrence Chen (UC Berkeley) an
 
 ***Cell Phone Design Challenge:***
 
-Alex Ganose (Imperial College London); Ryan Kingsbury (Princeton University); Jianli Cheng, Ruoxi Yang, Barbara Bonfim (Berkeley Lab), Rishabh Guha (Schrödinger Inc.), Oxana Andriuc (UC Berkeley).
+Alex Ganose (Imperial College London); Ryan Kingsbury (Princeton University); Barbara Bonfim (WWF-Brazil); Jianli Cheng, Rishabh Guha (Schrödinger Inc.); Ruoxi Yang (Tesla); Oxana Andriuc (UC Berkeley); Jingyang Wang (Beijing Normal University); Aaron Kaplan, Roberta Pascazio (Berkeley Lab).
 
 ***Energy Consumption Data Challenge:***
 
